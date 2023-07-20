@@ -20,3 +20,19 @@ int main() {
   }
   return 0;
 }
+
+ALGORITHM FOR LINEAR SEARCH:
+Step 1: Start 
+Step 2: Declare an array, and search data variable-x.
+Step 3: Traverse the entire array until search data is found.
+                 If search data  is present then 
+                               return its location
+             else 
+                               return -1
+Step 4: print data 
+Step 5: Stop
+
+* TIME COMPLEXITY FOR LINEAR SEARCH:
+Best Case: O (1)
+Average Case: O (n)
+Worst Case: O (n)
